@@ -1,2 +1,2 @@
 # MovieApp
-A MovieApp with API from IMDB
+A MovieApp with API from MoviesAPI
